@@ -65,9 +65,3 @@ No todo es código. Cuando me desconecto, suelo estar:
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AdrianMD23/AdrianMD23/output/snake.svg" alt="Snake animation" />
-
-###
