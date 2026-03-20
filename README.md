@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola, soy Jesús Adrián Matos Dzul! 👋
 
-<!--
-**AdrianMD23/AdrianMD23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi rincón en GitHub. Soy estudiante de **Ingeniería en Sistemas Computacionales**, apasionado por la tecnología y el desarrollo web. Este perfil es un reflejo de mi aprendizaje constante y mis proyectos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+Actualmente, estoy enfocado en:
+* 🚀 Estudiar y mejorar mis habilidades en el desarrollo de software.
+* 🛠️ Creando soluciones modernas utilizando **Laravel, Inertia y Vue**.
+* 📊 Profundizando mis conocimientos en la administración de bases de datos.
+---
+
+## 🎮 Intereses y Pasatiempos
+
+No todo es código. Cuando me desconecto, suelo estar:
+* 🕹️ En los servidores de **Blood**, recordando viejos tiempos y afinando la puntería.
+* 🎵 Escuchando buena música para programar o relajarme.
+* 📖 Leyendo sobre nuevas tendencias tecnológicas.
+---
+
+## 📫 Conecta conmigo
+
+¡Siempre estoy abierto a charlar sobre tecnología, juegos o proyectos interesantes!
